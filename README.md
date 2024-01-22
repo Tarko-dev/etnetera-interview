@@ -1,3 +1,5 @@
+### IMPORTANT!! after you start the app you can visit http://localhost:8080/swagger-ui/index.html#/ to try the API 
+
 # České zadání
 
 Nevytvářejte fork tohoto repozitáře, ale místo toho [duplikujte toto úložiště](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository). Pokud se přihlásíte na GitHub, můžete vytvořit repozitář ze šablony. Pokud se přihlásíte na GitHub, můžete [vytvořit repozitář ze šablony](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
