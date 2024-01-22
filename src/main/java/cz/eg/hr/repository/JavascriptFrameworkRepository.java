@@ -1,7 +1,9 @@
 package cz.eg.hr.repository;
 
-import cz.eg.hr.data.JavascriptFramework;
-import org.springframework.data.repository.CrudRepository;
+import cz.eg.hr.data.entity.JavascriptFramework;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 
-public interface JavascriptFrameworkRepository extends CrudRepository<JavascriptFramework, Long> {
+@Repository
+public interface JavascriptFrameworkRepository extends JpaRepository<JavascriptFramework, Long> {
 }
